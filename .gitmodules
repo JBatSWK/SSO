@@ -1,3 +1,39 @@
 [submodule "Native"]
 	path = Native
 	url = git@github.com:JBatSWK/Native.git
+
+
+[submodule "Login_React"]
+	path = Login_React
+	url = git@github.com:JBatSWK/Login_React.git
+
+[submodule "Login_Server"]
+	path = Login_Server
+	url = git@github.com:JBatSWK/Login_Server.git
+
+
+[submodule "Konrad_React"]
+	path = Konrad_React
+	url = git@github.com:JBatSWK/Konrad_React.git
+
+[submodule "Konrad_Server"]
+	path = Konrad_Server
+	url = git@github.com:JBatSWK/Konrad_Server.git
+
+
+[submodule "Handyticket_React"]
+	path = Handyticket_React
+	url = git@github.com:JBatSWK/Handyticket_React.git
+	
+[submodule "Handyticket_Server"]
+	path = Handyticket_Server
+	url = git@github.com:JBatSWK/Handyticket_Server.git
+[submodule "React_Template"]
+	path = React_Template
+	url = git@github.com:JBatSWK/React_Template.git
+[submodule "Server_Template"]
+	path = Server_Template
+	url = git@github.com:JBatSWK/Server_Template.git
+[submodule "Fusionauth"]
+	path = Fusionauth
+	url = git@github.com:JBatSWK/Fusionauth.git

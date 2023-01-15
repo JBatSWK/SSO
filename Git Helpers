@@ -1,0 +1,14 @@
+to clone everything run 
+git clone --recurse-submodules git@github.com:JonasBechler/SWK.git
+
+to update to the newest version
+git submodule foreach --recursive git fetch
+git submodule foreach --recursive git checkout dev
+
+
+fetch all repos --all = fetch all remotes
+git submodule foreach --recursive git pull --all
+
+pull newest from dev
+git submodule foreach --recursive git checkout dev
+
